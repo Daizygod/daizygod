@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 ## Connect with me  
 <a href="https://t.me/daizygod" target="_blank">
 <img height="50" src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png alt=github style="margin-bottom: 5px;" /></a>
-<a href="https://vk.com/daizygod" target="_blank">
+<a href="https://vk.com/neoher" target="_blank">
 <img height="50" src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/VK_logo_Blue_512x512.png/220px-VK_logo_Blue_512x512.png alt=github style="margin-bottom: 5px;" /></a>
 <br>
 <a href="https://github.com/daizygod" target="_blank">
