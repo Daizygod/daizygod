@@ -112,9 +112,10 @@ Here are some ideas to get you started:
 
 ## Github Stats  
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daizygod)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=daizygod&show_icons=true&count_private=true&hide_border=true" align="center" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daizygod&hide_border=true&layout=compact" align="center" />   
+
+<img src="https://github-readme-stats.vercel.app/api?username=daizygod&bg_color=20,d23e3e,00d4ff&title_color=fff&text_color=fff" align="center" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daizygod&langs_count=8&bg_color=30,00d4ff,0033ff&title_color=fff&text_color=fff" align="center" />  
+   
 </div>
 <br>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sizyh.svetlana&cover_image=true&theme=default" /></div>  
