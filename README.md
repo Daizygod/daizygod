@@ -113,8 +113,8 @@ Here are some ideas to get you started:
 ## Github Stats  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=daizygod&bg_color=20,d23e3e,00d4ff&title_color=fff&text_color=fff" align="center" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daizygod&langs_count=8&bg_color=30,00d4ff,0033ff&title_color=fff&text_color=fff" align="center" />  
+<img src="https://github-readme-stats-git-master-daizygod.vercel.app/api?username=daizygod&bg_color=20,d23e3e,00d4ff&title_color=fff&text_color=fff" align="center" /> 
+<img src="https://github-readme-stats-git-master-daizygod.vercel.app/api/top-langs/?username=daizygod&langs_count=8&bg_color=30,00d4ff,0033ff&title_color=fff&text_color=fff" align="center" />  
    
 </div>
 <br>
