@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### Backend  
 <div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.yiiframework.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/Y/yii-logo-7A79DB2A59-seeklogo.com.png" alt="Yii" height="50" /></a>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <a href="https://t.me/daizygod" target="_blank">
 <img height="50" src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png alt=github style="margin-bottom: 5px;" /></a>
 <a href="https://vk.com/neoher" target="_blank">
-<img height="50" src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/VK_logo_Blue_512x512.png/220px-VK_logo_Blue_512x512.png alt=github style="margin-bottom: 5px;" /></a>
+<img height="50" src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/640px-VK_Compact_Logo_%282021-present%29.svg.png alt=github style="margin-bottom: 5px;" /></a>
 <br>
 <a href="https://github.com/daizygod" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
