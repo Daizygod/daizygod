@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ### <div align="center">Hi, I'm Ruslan👋</div>  
   
 
-- 🔭 I’m currently working on a system for managing computer clubs  
+- 🔭 I’m currently working on a system for managing computer clubs (main work) 
+- 🔭 Also I’m currently working on a clone spotify web player (sukify) 
   
 
 - 🌱 I’m currently learning Laravel  
