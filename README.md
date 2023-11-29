@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 
 - 🔭 I’m currently working on a system for managing computer clubs (main work) 
-- 🔭 Also I’m currently working on a clone spotify web player (sukify) 
+- 🔭 Also I’m currently working on a [clone spotify web player (sukify)](https://github.com/Daizygod/sukify)
   
 
 - 🌱 I’m currently learning Laravel  
